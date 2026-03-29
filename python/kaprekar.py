@@ -16,6 +16,7 @@ def kaprekar(n: int) -> int:
         # recursion
         return kaprekar(n)
 
+# test
 kaprekar(1568)
 
 # 03.06.2026.
