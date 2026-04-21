@@ -1,8 +1,8 @@
 # cool-codes 🧪
 
-A no-pressure repository. Just a place to keep small projects, experiments, and code I've built along the way. Nothing here was made to be impressive; that's kind of the point: simple, straightforward code, written out of curiosity or just for fun.
+Just a place to keep small projects, experiments, and code I havve built along the way. Nothing here was made to be impressive: simple, straightforward code, written out of curiosity or just for fun.
 
-The repository is constantly growing. Whenever a new project comes up — a quick script, a weird idea, or something actually useful — it'll end up here.
+The repository is constantly growing. Whenever a new project comes up, a quick script, a weird idea, or something actually useful, it'll end up here.
 
 ---
 
@@ -44,6 +44,6 @@ cool-codes/
 
 ## 💡 About
 
-This repository has no specific theme. The projects here serve different purposes — some were made to solve a day-to-day problem, others just to see what would happen. The list will grow over time, with no rush and no commitment to perfection.
+This repository has no specific theme. The projects here serve different purposes. Some were made to solve a day-to-day problem, others just to see what would happen. The list will grow over time, with no rush and no commitment to perfection.
 
-If something here turns out to be useful to you, great. If not, that's fine too.
+If something here turns out to be useful to you, great. If not, that is fine too.
