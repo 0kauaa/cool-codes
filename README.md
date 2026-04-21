@@ -24,7 +24,7 @@ cool-codes/
 
 | Project | Description |
 |---------|-------------|
-| `kaprekar` | An implementation of Kaprekar's Routine: given any 4-digit number, the algorithm rearranges its digits in ascending and descending order, subtracts one from the other, and repeats until it converges to 6174 — the so-called "Kaprekar constant". |
+| `kaprekar` | An implementation of Kaprekar's Routine: given any 4-digit number, the algorithm rearranges its digits in ascending and descending order, subtracts one from the other, and repeats until it converges to 6174, the so-called "Kaprekar constant". |
 
 *(more projects coming)*
 
